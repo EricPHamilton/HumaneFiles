@@ -1,3 +1,13 @@
-div {
-  background-color: aqua
+td {
+  background-color: #f7d4d8;
+}
+
+body {
+  background-color: #ae2333;
+}
+
+.list-item {
+  padding: 10px;
+  border-color: #313b8d;
+  border-style: solid;
 }
