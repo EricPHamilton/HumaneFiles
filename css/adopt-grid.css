@@ -29,3 +29,11 @@ table > tbody > tr > td {
   font-size: 26px;
   text-align: center;
 }
+
+table[bgcolor='#ffffff'] img {
+  display: none;
+}
+
+table[bgcolor='#ffffff'] td {
+  background-image: none;
+}
