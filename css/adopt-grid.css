@@ -11,3 +11,21 @@ body {
   border-color: #313b8d;
   border-style: solid;
 }
+
+.list-animal-photo-block {
+  text-align: center;
+}
+
+table > tbody > tr > td {
+  text-align: left;
+  padding: 3px;
+}
+
+.detail-table > tbody > tr > td {
+  padding: 1px;
+}
+
+.detail-animal-name {
+  font-size: 26px;
+  text-align: center;
+}
