@@ -82,3 +82,7 @@ a.navbar-brand {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.btn-primary {
+  border-color: #313b8d;
+}
